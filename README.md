@@ -1,4 +1,4 @@
-# pGCN for AD and PD Classification
+# Ensemble learning of population based GCN for AD and PD Classification.
 
 
 This project is the implementation of population based GCN (pGCN) based on Parisot, S et.Al's  (https://arxiv.org/abs/1703.03020) on DTI data of ADNI and PPMI databases. We further use ensemble learning approach to boost the classification perfromance of pGCN.
